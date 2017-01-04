@@ -1,7 +1,7 @@
 # FactoryAnnotation
 factory design for simple factory method implement
 
-> project structure
+## project structure
 1. :app
 2. :javac
     1. :annotation
