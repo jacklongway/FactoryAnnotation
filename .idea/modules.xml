@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidCompileAnnotation.iml" filepath="$PROJECT_DIR$/AndroidCompileAnnotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javac/annotation/annotation.iml" filepath="$PROJECT_DIR$/javac/annotation/annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javac/javac.iml" filepath="$PROJECT_DIR$/javac/javac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javac/processor/processor.iml" filepath="$PROJECT_DIR$/javac/processor/processor.iml" />
+    </modules>
+  </component>
+</project>
